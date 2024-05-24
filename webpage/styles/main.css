@@ -1,0 +1,40 @@
+
+.cit {
+    font-style: italic;
+
+}
+
+.tweet {
+    background-color: #fff;
+    border: 1px solid #e1e8ed;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tweet img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.like-button {
+    background-color: #1da1f2;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.like-button.liked {
+    background-color: #ff0000;
+}
+@media (max-width: 768px) {
+.carousel {
+    height: 300px; /* Set the fixed height for the carousel */
+  }
+}

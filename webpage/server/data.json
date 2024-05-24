@@ -1,0 +1,9 @@
+{
+    "tweets": [
+        { "id": 1, "image": "tweet1.png" },
+        { "id": 2, "image": "tweet2.png" },
+        { "id": 3, "image": "tweet3.png" },
+        { "id": 4, "image": "tweet4.png" },
+        { "id": 5, "image": "tweet5.png" }
+    ]
+}
